@@ -17,4 +17,5 @@ public class laser : MonoBehaviour
     {
         transform.position += new Vector3(0, speed * direction, 0) * Time.deltaTime;
     }
+
 }

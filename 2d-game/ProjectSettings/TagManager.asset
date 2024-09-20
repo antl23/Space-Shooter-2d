@@ -6,6 +6,12 @@ TagManager:
   tags:
   - EnemyLaser
   - PlayerLaser
+  - powerUp
+  - hpUp
+  - laserStopper
+  - enemy
+  - SuperLaser
+  - Boss
   layers:
   - Default
   - TransparentFX
